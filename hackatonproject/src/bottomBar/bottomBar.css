@@ -1,0 +1,24 @@
+/* SNS list CSS */
+#snsList {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.box {
+  float: left;
+  padding-right: 15px;
+}
+
+.snsButton {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  background-color: black;
+  color: white;
+}
+
+/* title css */
+#title {
+  font-size: x-large;
+  font-weight: 600;
+}
